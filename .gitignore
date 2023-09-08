@@ -88,3 +88,5 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+musicKitTest1/musicKitTest1/Info.plist
+musicKitTest1/.DS_Store
